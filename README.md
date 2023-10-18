@@ -21,3 +21,7 @@ If you have a custom cursor you'd like to contribute to this repository, please 
 - Cursors should be in the `.cur` or `.ani` format.
 - Cursors should be visually appealing and easy to see.
 - Cursors should be free to use and distribute.
+
+## Special Thanks
+
+I want to extend a special thanks to [jepriCreations](https://www.deviantart.com/jepricreations) for their incredible custom cursors.
